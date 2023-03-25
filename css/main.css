@@ -1,0 +1,56 @@
+.pHeader{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 0.95em;
+    color: brown;
+    margin-top: 10px;
+}
+.imglang{
+    height: 15px;
+}
+.homeContent{
+    border: 1px solid red;
+    margin-top: 10px;
+}
+.pTinNoiBat{
+    font-size: 0.9em;
+}
+.divFooter{
+    margin-top: 25px;
+    padding: 10px;
+    background-color: brown;
+    color: white;
+}
+.pLienHe{
+    font-size: 0.85em;
+}
+.statistic-2{
+    color: yellow;
+    font-size: 13px;
+    text-align: left !important;
+}
+.statistic-1{
+    font-size: 13px;
+    text-align: right !important;
+}
+.tbody{
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+h6{
+    font-size: 15px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 0px;
+    text-align: left;
+}
+.fa-home{
+    color: black;
+}
+.fa-phone{
+    color: black;
+}
+.fa-envelope{
+    color: black;
+}
